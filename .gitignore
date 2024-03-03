@@ -1,2 +1,3 @@
-data/
+code-project-1/data/
 .venv/
+!code-project-1/data/tatoeba/lang_to_languages.csv
